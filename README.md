@@ -1,4 +1,4 @@
-# SQL
+# SQL-UN messenger
 A database of ORG with a table WORKER
 It fetches:
 ->FIRST_NAME of worker Alias WORKER_NAME
